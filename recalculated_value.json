@@ -1,0 +1,293 @@
+{
+  "new_zealand": {
+    "Animal Products": 180,
+    "Vegetable Products": 30,
+    "Metals": 10,
+    "Mineral Products": 10,
+    "Wood Products": 30,
+    "Textiles": 10
+  },
+  "canada": {
+    "Animal Products": 130,
+    "Vegetable Products": 200,
+    "Metals": 310,
+    "Mineral Products": 1100,
+    "Wood Products": 120,
+    "Precious Metals": 200,
+    "Textiles": 30,
+    "Animal Hides": 10,
+    "Plastics and Rubbers": 160,
+    "Stone And Glass": 20
+  },
+  "iran": {
+    "Vegetable Products": 20,
+    "Metals": 20,
+    "Mineral Products": 150,
+    "Plastics and Rubbers": 30
+  },
+  "south_africa": {
+    "Animal Products": 10,
+    "Vegetable Products": 50,
+    "Metals": 100,
+    "Mineral Products": 230,
+    "Wood Products": 10,
+    "Precious Metals": 300,
+    "Textiles": 10,
+    "Plastics and Rubbers": 20
+  },
+  "france": {
+    "Animal Products": 150,
+    "Vegetable Products": 170,
+    "Metals": 360,
+    "Mineral Products": 180,
+    "Wood Products": 30,
+    "Precious Metals": 120,
+    "Textiles": 160,
+    "Animal Hides": 100,
+    "Plastics and Rubbers": 270,
+    "Stone And Glass": 50
+  },
+  "china": {
+    "Animal Products": 160,
+    "Vegetable Products": 260,
+    "Metals": 1870,
+    "Mineral Products": 490,
+    "Wood Products": 150,
+    "Precious Metals": 160,
+    "Textiles": 2480,
+    "Animal Hides": 310,
+    "Plastics and Rubbers": 1100,
+    "Stone And Glass": 500
+  },
+  "usa": {
+    "Animal Products": 300,
+    "Vegetable Products": 640,
+    "Metals": 680,
+    "Mineral Products": 2090,
+    "Wood Products": 80,
+    "Precious Metals": 470,
+    "Textiles": 250,
+    "Animal Hides": 30,
+    "Plastics and Rubbers": 790,
+    "Stone And Glass": 120
+  },
+  "india": {
+    "Animal Products": 100,
+    "Vegetable Products": 170,
+    "Metals": 260,
+    "Mineral Products": 460,
+    "Wood Products": 10,
+    "Precious Metals": 390,
+    "Textiles": 360,
+    "Animal Hides": 30,
+    "Plastics and Rubbers": 110,
+    "Stone And Glass": 50
+  },
+  "uk": {
+    "Animal Products": 80,
+    "Vegetable Products": 30,
+    "Metals": 230,
+    "Mineral Products": 420,
+    "Wood Products": 10,
+    "Precious Metals": 400,
+    "Textiles": 120,
+    "Animal Hides": 20,
+    "Plastics and Rubbers": 150,
+    "Stone And Glass": 30
+  },
+  "north_korea": {},
+  "argentina": {
+    "Animal Products": 70,
+    "Vegetable Products": 160,
+    "Metals": 20,
+    "Mineral Products": 30,
+    "Precious Metals": 30,
+    "Animal Hides": 10,
+    "Plastics and Rubbers": 10
+  },
+  "malaysia": {
+    "Animal Products": 10,
+    "Vegetable Products": 10,
+    "Metals": 150,
+    "Mineral Products": 410,
+    "Wood Products": 30,
+    "Precious Metals": 30,
+    "Textiles": 30,
+    "Plastics and Rubbers": 170,
+    "Stone And Glass": 20
+  },
+  "australia": {
+    "Animal Products": 160,
+    "Vegetable Products": 90,
+    "Metals": 140,
+    "Mineral Products": 1720,
+    "Wood Products": 20,
+    "Precious Metals": 270,
+    "Textiles": 40,
+    "Animal Hides": 10,
+    "Plastics and Rubbers": 10
+  },
+  "turkey": {
+    "Animal Products": 20,
+    "Vegetable Products": 80,
+    "Metals": 240,
+    "Mineral Products": 140,
+    "Wood Products": 10,
+    "Precious Metals": 70,
+    "Textiles": 300,
+    "Animal Hides": 10,
+    "Plastics and Rubbers": 100,
+    "Stone And Glass": 40
+  },
+  "vietnam": {
+    "Animal Products": 60,
+    "Vegetable Products": 120,
+    "Metals": 120,
+    "Mineral Products": 60,
+    "Wood Products": 40,
+    "Precious Metals": 20,
+    "Textiles": 410,
+    "Animal Hides": 40,
+    "Plastics and Rubbers": 90,
+    "Stone And Glass": 20
+  },
+  "indonesia": {
+    "Animal Products": 40,
+    "Vegetable Products": 30,
+    "Metals": 140,
+    "Mineral Products": 390,
+    "Wood Products": 40,
+    "Precious Metals": 80,
+    "Textiles": 140,
+    "Animal Hides": 10,
+    "Plastics and Rubbers": 90,
+    "Stone And Glass": 10
+  },
+  "mexico": {
+    "Animal Products": 70,
+    "Vegetable Products": 110,
+    "Metals": 350,
+    "Mineral Products": 410,
+    "Wood Products": 20,
+    "Precious Metals": 10,
+    "Textiles": 120,
+    "Animal Hides": 20,
+    "Plastics and Rubbers": 290,
+    "Stone And Glass": 30
+  },
+  "philippines": {
+    "Vegetable Products": 30,
+    "Metals": 30,
+    "Mineral Products": 30,
+    "Wood Products": 10,
+    "Precious Metals": 20,
+    "Textiles": 20,
+    "Animal Hides": 10,
+    "Plastics and Rubbers": 20
+  },
+  "russia": {
+    "Animal Products": 50,
+    "Vegetable Products": 120,
+    "Metals": 430,
+    "Mineral Products": 2460,
+    "Wood Products": 90,
+    "Precious Metals": 180,
+    "Textiles": 10,
+    "Plastics and Rubbers": 60,
+    "Stone And Glass": 20
+  },
+  "italy": {
+    "Animal Products": 70,
+    "Vegetable Products": 100,
+    "Metals": 490,
+    "Mineral Products": 170,
+    "Wood Products": 20,
+    "Precious Metals": 150,
+    "Textiles": 350,
+    "Animal Hides": 140,
+    "Plastics and Rubbers": 270,
+    "Stone And Glass": 110
+  },
+  "ukraine": {
+    "Animal Products": 10,
+    "Vegetable Products": 120,
+    "Metals": 100,
+    "Mineral Products": 50,
+    "Wood Products": 10,
+    "Textiles": 10,
+    "Plastics and Rubbers": 10
+  },
+  "south_korea": {
+    "Animal Products": 20,
+    "Vegetable Products": 10,
+    "Metals": 480,
+    "Mineral Products": 440,
+    "Precious Metals": 30,
+    "Textiles": 130,
+    "Animal Hides": 10,
+    "Plastics and Rubbers": 400,
+    "Stone And Glass": 30
+  },
+  "brazil": {
+    "Animal Products": 170,
+    "Vegetable Products": 410,
+    "Metals": 160,
+    "Mineral Products": 570,
+    "Wood Products": 30,
+    "Precious Metals": 40,
+    "Textiles": 40,
+    "Animal Hides": 10,
+    "Plastics and Rubbers": 50,
+    "Stone And Glass": 20
+  },
+  "saudi_arabia": {
+    "Animal Products": 10,
+    "Metals": 50,
+    "Mineral Products": 1720,
+    "Precious Metals": 10,
+    "Plastics and Rubbers": 220,
+    "Stone And Glass": 10
+  },
+  "pakistan": {
+    "Animal Products": 10,
+    "Vegetable Products": 40,
+    "Metals": 10,
+    "Mineral Products": 10,
+    "Textiles": 150,
+    "Animal Hides": 10
+  },
+  "thailand": {
+    "Animal Products": 30,
+    "Vegetable Products": 110,
+    "Metals": 110,
+    "Mineral Products": 90,
+    "Wood Products": 30,
+    "Precious Metals": 150,
+    "Textiles": 70,
+    "Animal Hides": 20,
+    "Plastics and Rubbers": 290,
+    "Stone And Glass": 20
+  },
+  "germany": {
+    "Animal Products": 230,
+    "Vegetable Products": 140,
+    "Metals": 1060,
+    "Mineral Products": 270,
+    "Wood Products": 90,
+    "Precious Metals": 160,
+    "Textiles": 370,
+    "Animal Hides": 30,
+    "Plastics and Rubbers": 820,
+    "Stone And Glass": 160
+  },
+  "japan": {
+    "Animal Products": 20,
+    "Vegetable Products": 10,
+    "Metals": 560,
+    "Mineral Products": 150,
+    "Precious Metals": 130,
+    "Textiles": 90,
+    "Plastics and Rubbers": 370,
+    "Stone And Glass": 80
+  }
+}
