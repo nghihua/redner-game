@@ -4,13 +4,6 @@ import os
 
 locale.setlocale(locale.LC_ALL, 'vi_VN')
 
-resources = ["Corn", "Soybeans", "Wheat", "Barley", "Ground Nuts", "Apples and Pears", "Citrus"
-			"Gold", "Crude Petroleum", "Raw Aluminium", "Silver", "Precious Metal Ore"
-			"Crustaceans", "Poultry Meat", "Cheese", "Non-fillet Frozen Fish"
-			"Raw Tobacco" ]
-
-directory = os.fsencode("json")
-
 sections = ['Animal Products', 'Vegetable Products',
 		 'Metals', 'Mineral Products', 'Wood Products',
 		 'Precious Metals', 'Textiles', 
@@ -21,12 +14,27 @@ advanced_sections = ['Machines', 'Weapons', 'Footwear and Headwear',
 					'Foodstuffs', 'Paper Goods', 'Miscellaneous',
 					'Arts and Antiques']
 
+old_to_new_sections = {
+	"Animal Products": "Animal",
+    "Vegetable Products": "Vegetable",
+    "Metals": "Metal",
+    "Mineral Products": "Mineral",
+    "Wood Products": "Wood",
+    "Precious Metals": "Precious Metals",
+    "Textiles": "Textiles",
+    "Plastics and Rubbers": "Plastics & Rubbers",
+    "Stone And Glass": "Stone & Glass"
+}
+
 natural_resources = {}
 
 def recalculate(value):
 	return round((value/100000000)/10)*10
-    
-for file in os.listdir(directory):
+
+def get_new_section_name(section):
+	return old_to_new_sections[section]
+
+for file in os.listdir("./json"):
 	filename = os.fsdecode(file)
 
 	with open('./json/{filename}'.format(filename=filename)) as f:
@@ -35,13 +43,14 @@ for file in os.listdir(directory):
 	temp_dict = {}
 
 	for section in sections:
-		temp_dict[section] = 0
+		new_section = get_new_section_name(section)
+		temp_dict[new_section] = 0
 		for item in data:
 			if (item["Section"] == section):
-				temp_dict[section] += item["Trade Value"]
-		temp_dict[section] = recalculate(temp_dict[section])
-		if (temp_dict[section]==0):
-			del temp_dict[section]
+				temp_dict[new_section] += item["Trade Value"]
+		temp_dict[new_section] = recalculate(temp_dict[new_section])
+		if (temp_dict[new_section]==0):
+			del temp_dict[new_section]
 
 	natural_resources[os.path.splitext(filename)[0]] = temp_dict
 
