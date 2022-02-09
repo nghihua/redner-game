@@ -13,7 +13,7 @@ directory = os.fsencode("json")
 
 sections = ['Animal Products', 'Vegetable Products',
 		 'Metals', 'Mineral Products', 'Wood Products',
-		 'Precious Metals', 'Textiles', 'Animal Hides', 
+		 'Precious Metals', 'Textiles', 
 		 'Plastics and Rubbers', 'Stone And Glass']
 
 advanced_sections = ['Machines', 'Weapons', 'Footwear and Headwear',
@@ -51,28 +51,3 @@ filename = input("Enter name:\n")
 with open('./{filename}'.format(filename=filename), "w") as f:
 	natural_resources_json = json.dumps(natural_resources, ensure_ascii=False, indent = 2)
 	f.write(natural_resources_json)
-
-for item in data:
-	if (item["Section"] == "Mineral Products"):
-		print(item["HS4"])
-
-# print("///////////")
-
-# data.sort(reverse = True, key = lambda item: item["Trade Value"])
-
-
-# directory = os.fsencode("yet")
-    
-# for file in os.listdir(directory):
-# 	filename = os.fsdecode(file)
-# 	print(filename)
-
-# 	with open('./yet/{filename}'.format(filename=filename)) as f:
-# 		data = json.load(f)["data"]
-
-# 	data.sort(reverse = True, key = lambda item: item["Trade Value"])
-
-# 	# write to json file
-# 	with open('./{filename}'.format(filename=filename), "w") as f:
-# 		data_json = json.dumps(data, ensure_ascii=False, indent = 2)
-# 		f.write(data_json)
