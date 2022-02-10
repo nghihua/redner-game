@@ -1,0 +1,38 @@
+{
+  "Animal": {
+    "price": 4.7,
+    "ingredients": "N/A"
+  },
+  "Vegetable": {
+    "price": 4.6,
+    "ingredients": "N/A"
+  },
+  "Metal": {
+    "price": 3.9,
+    "ingredients": "N/A"
+  },
+  "Mineral": {
+    "price": 3.1,
+    "ingredients": "N/A"
+  },
+  "Wood": {
+    "price": 5,
+    "ingredients": "N/A"
+  },
+  "Precious Metal": {
+    "price": 4.6,
+    "ingredients": "N/A"
+  },
+  "Textile": {
+    "price": 4.3,
+    "ingredients": "N/A"
+  },
+  "Plastic & Rubber": {
+    "price": 4.2,
+    "ingredients": "N/A"
+  },
+  "Stone & Glass": {
+    "price": 5,
+    "ingredients": "N/A"
+  }
+}

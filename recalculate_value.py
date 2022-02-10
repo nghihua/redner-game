@@ -20,9 +20,9 @@ old_to_new_sections = {
     "Metals": "Metal",
     "Mineral Products": "Mineral",
     "Wood Products": "Wood",
-    "Precious Metals": "Precious Metals",
-    "Textiles": "Textiles",
-    "Plastics and Rubbers": "Plastics & Rubbers",
+    "Precious Metals": "Precious Metal",
+    "Textiles": "Textile",
+    "Plastics and Rubbers": "Plastic & Rubber",
     "Stone And Glass": "Stone & Glass"
 }
 
@@ -57,6 +57,7 @@ for file in os.listdir("./json"):
 filename = input("Enter name:\n")
 
 # write to json file
-with open('./{filename}'.format(filename=filename), "w") as f:
+with open('./final_data/{filename}'.format(filename=filename), "w") as f:
 	natural_resources_json = json.dumps(natural_resources, ensure_ascii=False, indent = 2)
 	f.write(natural_resources_json)
+

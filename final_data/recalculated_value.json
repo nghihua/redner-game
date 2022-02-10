@@ -5,7 +5,7 @@
     "Metal": 10,
     "Mineral": 10,
     "Wood": 30,
-    "Textiles": 10
+    "Textile": 10
   },
   "canada": {
     "Animal": 130,
@@ -13,16 +13,16 @@
     "Metal": 310,
     "Mineral": 1100,
     "Wood": 120,
-    "Precious Metals": 200,
-    "Textiles": 30,
-    "Plastics & Rubbers": 160,
+    "Precious Metal": 200,
+    "Textile": 30,
+    "Plastic & Rubber": 160,
     "Stone & Glass": 20
   },
   "iran": {
     "Vegetable": 20,
     "Metal": 20,
     "Mineral": 150,
-    "Plastics & Rubbers": 30
+    "Plastic & Rubber": 30
   },
   "south_africa": {
     "Animal": 10,
@@ -30,9 +30,9 @@
     "Metal": 100,
     "Mineral": 230,
     "Wood": 10,
-    "Precious Metals": 300,
-    "Textiles": 10,
-    "Plastics & Rubbers": 20
+    "Precious Metal": 300,
+    "Textile": 10,
+    "Plastic & Rubber": 20
   },
   "france": {
     "Animal": 150,
@@ -40,9 +40,9 @@
     "Metal": 360,
     "Mineral": 180,
     "Wood": 30,
-    "Precious Metals": 120,
-    "Textiles": 160,
-    "Plastics & Rubbers": 270,
+    "Precious Metal": 120,
+    "Textile": 160,
+    "Plastic & Rubber": 270,
     "Stone & Glass": 50
   },
   "china": {
@@ -51,9 +51,9 @@
     "Metal": 1870,
     "Mineral": 490,
     "Wood": 150,
-    "Precious Metals": 160,
-    "Textiles": 2480,
-    "Plastics & Rubbers": 1100,
+    "Precious Metal": 160,
+    "Textile": 2480,
+    "Plastic & Rubber": 1100,
     "Stone & Glass": 500
   },
   "usa": {
@@ -62,9 +62,9 @@
     "Metal": 680,
     "Mineral": 2090,
     "Wood": 80,
-    "Precious Metals": 470,
-    "Textiles": 250,
-    "Plastics & Rubbers": 790,
+    "Precious Metal": 470,
+    "Textile": 250,
+    "Plastic & Rubber": 790,
     "Stone & Glass": 120
   },
   "india": {
@@ -73,9 +73,9 @@
     "Metal": 260,
     "Mineral": 460,
     "Wood": 10,
-    "Precious Metals": 390,
-    "Textiles": 360,
-    "Plastics & Rubbers": 110,
+    "Precious Metal": 390,
+    "Textile": 360,
+    "Plastic & Rubber": 110,
     "Stone & Glass": 50
   },
   "uk": {
@@ -84,9 +84,9 @@
     "Metal": 230,
     "Mineral": 420,
     "Wood": 10,
-    "Precious Metals": 400,
-    "Textiles": 120,
-    "Plastics & Rubbers": 150,
+    "Precious Metal": 400,
+    "Textile": 120,
+    "Plastic & Rubber": 150,
     "Stone & Glass": 30
   },
   "north_korea": {},
@@ -95,8 +95,8 @@
     "Vegetable": 160,
     "Metal": 20,
     "Mineral": 30,
-    "Precious Metals": 30,
-    "Plastics & Rubbers": 10
+    "Precious Metal": 30,
+    "Plastic & Rubber": 10
   },
   "malaysia": {
     "Animal": 10,
@@ -104,9 +104,9 @@
     "Metal": 150,
     "Mineral": 410,
     "Wood": 30,
-    "Precious Metals": 30,
-    "Textiles": 30,
-    "Plastics & Rubbers": 170,
+    "Precious Metal": 30,
+    "Textile": 30,
+    "Plastic & Rubber": 170,
     "Stone & Glass": 20
   },
   "australia": {
@@ -115,9 +115,9 @@
     "Metal": 140,
     "Mineral": 1720,
     "Wood": 20,
-    "Precious Metals": 270,
-    "Textiles": 40,
-    "Plastics & Rubbers": 10
+    "Precious Metal": 270,
+    "Textile": 40,
+    "Plastic & Rubber": 10
   },
   "turkey": {
     "Animal": 20,
@@ -125,9 +125,9 @@
     "Metal": 240,
     "Mineral": 140,
     "Wood": 10,
-    "Precious Metals": 70,
-    "Textiles": 300,
-    "Plastics & Rubbers": 100,
+    "Precious Metal": 70,
+    "Textile": 300,
+    "Plastic & Rubber": 100,
     "Stone & Glass": 40
   },
   "vietnam": {
@@ -136,9 +136,9 @@
     "Metal": 120,
     "Mineral": 60,
     "Wood": 40,
-    "Precious Metals": 20,
-    "Textiles": 410,
-    "Plastics & Rubbers": 90,
+    "Precious Metal": 20,
+    "Textile": 410,
+    "Plastic & Rubber": 90,
     "Stone & Glass": 20
   },
   "indonesia": {
@@ -147,9 +147,9 @@
     "Metal": 140,
     "Mineral": 390,
     "Wood": 40,
-    "Precious Metals": 80,
-    "Textiles": 140,
-    "Plastics & Rubbers": 90,
+    "Precious Metal": 80,
+    "Textile": 140,
+    "Plastic & Rubber": 90,
     "Stone & Glass": 10
   },
   "mexico": {
@@ -158,9 +158,9 @@
     "Metal": 350,
     "Mineral": 410,
     "Wood": 20,
-    "Precious Metals": 10,
-    "Textiles": 120,
-    "Plastics & Rubbers": 290,
+    "Precious Metal": 10,
+    "Textile": 120,
+    "Plastic & Rubber": 290,
     "Stone & Glass": 30
   },
   "philippines": {
@@ -168,9 +168,9 @@
     "Metal": 30,
     "Mineral": 30,
     "Wood": 10,
-    "Precious Metals": 20,
-    "Textiles": 20,
-    "Plastics & Rubbers": 20
+    "Precious Metal": 20,
+    "Textile": 20,
+    "Plastic & Rubber": 20
   },
   "russia": {
     "Animal": 50,
@@ -178,9 +178,9 @@
     "Metal": 430,
     "Mineral": 2460,
     "Wood": 90,
-    "Precious Metals": 180,
-    "Textiles": 10,
-    "Plastics & Rubbers": 60,
+    "Precious Metal": 180,
+    "Textile": 10,
+    "Plastic & Rubber": 60,
     "Stone & Glass": 20
   },
   "italy": {
@@ -189,9 +189,9 @@
     "Metal": 490,
     "Mineral": 170,
     "Wood": 20,
-    "Precious Metals": 150,
-    "Textiles": 350,
-    "Plastics & Rubbers": 270,
+    "Precious Metal": 150,
+    "Textile": 350,
+    "Plastic & Rubber": 270,
     "Stone & Glass": 110
   },
   "ukraine": {
@@ -200,17 +200,17 @@
     "Metal": 100,
     "Mineral": 50,
     "Wood": 10,
-    "Textiles": 10,
-    "Plastics & Rubbers": 10
+    "Textile": 10,
+    "Plastic & Rubber": 10
   },
   "south_korea": {
     "Animal": 20,
     "Vegetable": 10,
     "Metal": 480,
     "Mineral": 440,
-    "Precious Metals": 30,
-    "Textiles": 130,
-    "Plastics & Rubbers": 400,
+    "Precious Metal": 30,
+    "Textile": 130,
+    "Plastic & Rubber": 400,
     "Stone & Glass": 30
   },
   "brazil": {
@@ -219,17 +219,17 @@
     "Metal": 160,
     "Mineral": 570,
     "Wood": 30,
-    "Precious Metals": 40,
-    "Textiles": 40,
-    "Plastics & Rubbers": 50,
+    "Precious Metal": 40,
+    "Textile": 40,
+    "Plastic & Rubber": 50,
     "Stone & Glass": 20
   },
   "saudi_arabia": {
     "Animal": 10,
     "Metal": 50,
     "Mineral": 1720,
-    "Precious Metals": 10,
-    "Plastics & Rubbers": 220,
+    "Precious Metal": 10,
+    "Plastic & Rubber": 220,
     "Stone & Glass": 10
   },
   "pakistan": {
@@ -237,7 +237,7 @@
     "Vegetable": 40,
     "Metal": 10,
     "Mineral": 10,
-    "Textiles": 150
+    "Textile": 150
   },
   "thailand": {
     "Animal": 30,
@@ -245,9 +245,9 @@
     "Metal": 110,
     "Mineral": 90,
     "Wood": 30,
-    "Precious Metals": 150,
-    "Textiles": 70,
-    "Plastics & Rubbers": 290,
+    "Precious Metal": 150,
+    "Textile": 70,
+    "Plastic & Rubber": 290,
     "Stone & Glass": 20
   },
   "germany": {
@@ -256,9 +256,9 @@
     "Metal": 1060,
     "Mineral": 270,
     "Wood": 90,
-    "Precious Metals": 160,
-    "Textiles": 370,
-    "Plastics & Rubbers": 820,
+    "Precious Metal": 160,
+    "Textile": 370,
+    "Plastic & Rubber": 820,
     "Stone & Glass": 160
   },
   "japan": {
@@ -266,9 +266,9 @@
     "Vegetable": 10,
     "Metal": 560,
     "Mineral": 150,
-    "Precious Metals": 130,
-    "Textiles": 90,
-    "Plastics & Rubbers": 370,
+    "Precious Metal": 130,
+    "Textile": 90,
+    "Plastic & Rubber": 370,
     "Stone & Glass": 80
   }
 }

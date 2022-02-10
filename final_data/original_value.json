@@ -5,9 +5,9 @@
     "Metal": 1470209819.0,
     "Mineral": 888752966.0,
     "Wood": 3398408071,
-    "Precious Metals": 459003257.00000006,
-    "Textiles": 677327186.0,
-    "Plastics & Rubbers": 404661914.0,
+    "Precious Metal": 459003257.00000006,
+    "Textile": 677327186.0,
+    "Plastic & Rubber": 404661914.0,
     "Stone & Glass": 69678796.0
   },
   "canada": {
@@ -16,9 +16,9 @@
     "Metal": 31071186125.0,
     "Mineral": 109840119057.0,
     "Wood": 11738763426.0,
-    "Precious Metals": 20353600457.0,
-    "Textiles": 3230871782.0,
-    "Plastics & Rubbers": 16191844040.0,
+    "Precious Metal": 20353600457.0,
+    "Textile": 3230871782.0,
+    "Plastic & Rubber": 16191844040.0,
     "Stone & Glass": 1932716045.0
   },
   "iran": {
@@ -27,9 +27,9 @@
     "Metal": 2038533017.0,
     "Mineral": 15002075903.0,
     "Wood": 5169814.0,
-    "Precious Metals": 11164278.0,
-    "Textiles": 194571097.0,
-    "Plastics & Rubbers": 3025342449,
+    "Precious Metal": 11164278.0,
+    "Textile": 194571097.0,
+    "Plastic & Rubber": 3025342449,
     "Stone & Glass": 231681019.0
   },
   "south_africa": {
@@ -38,9 +38,9 @@
     "Metal": 10495070596.0,
     "Mineral": 23453926790.0,
     "Wood": 531369541,
-    "Precious Metals": 29754219875.0,
-    "Textiles": 1269454156.0,
-    "Plastics & Rubbers": 1942985494,
+    "Precious Metal": 29754219875.0,
+    "Textile": 1269454156.0,
+    "Plastic & Rubber": 1942985494,
     "Stone & Glass": 475827918.0
   },
   "france": {
@@ -49,9 +49,9 @@
     "Metal": 35597106387.0,
     "Mineral": 17958689522.0,
     "Wood": 2930413163,
-    "Precious Metals": 11924333401.0,
-    "Textiles": 16173285824,
-    "Plastics & Rubbers": 26949763628,
+    "Precious Metal": 11924333401.0,
+    "Textile": 16173285824,
+    "Plastic & Rubber": 26949763628,
     "Stone & Glass": 5385098356
   },
   "china": {
@@ -60,9 +60,9 @@
     "Metal": 187421525518,
     "Mineral": 49180668162.0,
     "Wood": 15068543012,
-    "Precious Metals": 16137845480,
-    "Textiles": 247576215562,
-    "Plastics & Rubbers": 109601802777.0,
+    "Precious Metal": 16137845480,
+    "Textile": 247576215562,
+    "Plastic & Rubber": 109601802777.0,
     "Stone & Glass": 49516186085
   },
   "usa": {
@@ -71,9 +71,9 @@
     "Metal": 68068166958.0,
     "Mineral": 209228827283,
     "Wood": 8412223351.0,
-    "Precious Metals": 46578476409,
-    "Textiles": 24825134311.0,
-    "Plastics & Rubbers": 79358838444,
+    "Precious Metal": 46578476409,
+    "Textile": 24825134311.0,
+    "Plastic & Rubber": 79358838444,
     "Stone & Glass": 12054594937.0
   },
   "india": {
@@ -82,9 +82,9 @@
     "Metal": 26442969884,
     "Mineral": 46476433220.0,
     "Wood": 653457530.0,
-    "Precious Metals": 38888465498.0,
-    "Textiles": 35502035690.0,
-    "Plastics & Rubbers": 10891837268,
+    "Precious Metal": 38888465498.0,
+    "Textile": 35502035690.0,
+    "Plastic & Rubber": 10891837268,
     "Stone & Glass": 4739627894
   },
   "uk": {
@@ -93,9 +93,9 @@
     "Metal": 22712280713.0,
     "Mineral": 41527879784,
     "Wood": 853663198,
-    "Precious Metals": 39715482247,
-    "Textiles": 11544142282,
-    "Plastics & Rubbers": 14786639544,
+    "Precious Metal": 39715482247,
+    "Textile": 11544142282,
+    "Plastic & Rubber": 14786639544,
     "Stone & Glass": 2938647959
   },
   "north_korea": {
@@ -104,9 +104,9 @@
     "Metal": 44795694.0,
     "Mineral": 36094557.0,
     "Wood": 936488.0,
-    "Precious Metals": 658640,
-    "Textiles": 2342279.0,
-    "Plastics & Rubbers": 12828544.0,
+    "Precious Metal": 658640,
+    "Textile": 2342279.0,
+    "Plastic & Rubber": 12828544.0,
     "Stone & Glass": 5664209.999999999
   },
   "argentina": {
@@ -115,9 +115,9 @@
     "Metal": 1961985111.0,
     "Mineral": 3488586507.0,
     "Wood": 198847959.0,
-    "Precious Metals": 2617598469.0,
-    "Textiles": 478150048.0,
-    "Plastics & Rubbers": 1125180320.0,
+    "Precious Metal": 2617598469.0,
+    "Textile": 478150048.0,
+    "Plastic & Rubber": 1125180320.0,
     "Stone & Glass": 149804709.0
   },
   "malaysia": {
@@ -126,9 +126,9 @@
     "Metal": 15271391062.0,
     "Mineral": 41133585855.0,
     "Wood": 3270530869.0,
-    "Precious Metals": 2744950802.0,
-    "Textiles": 3445945707.0,
-    "Plastics & Rubbers": 17038246005,
+    "Precious Metal": 2744950802.0,
+    "Textile": 3445945707.0,
+    "Plastic & Rubber": 17038246005,
     "Stone & Glass": 2290369777
   },
   "australia": {
@@ -137,9 +137,9 @@
     "Metal": 14263005281.0,
     "Mineral": 172202981389.0,
     "Wood": 1720877924.0,
-    "Precious Metals": 27050664747.0,
-    "Textiles": 3840222883.0,
-    "Plastics & Rubbers": 1166966120,
+    "Precious Metal": 27050664747.0,
+    "Textile": 3840222883.0,
+    "Plastic & Rubber": 1166966120,
     "Stone & Glass": 198941367.0
   },
   "turkey": {
@@ -148,9 +148,9 @@
     "Metal": 24234662231.0,
     "Mineral": 13737562353.0,
     "Wood": 941046201,
-    "Precious Metals": 7497179248.0,
-    "Textiles": 29688955302.0,
-    "Plastics & Rubbers": 9799799284,
+    "Precious Metal": 7497179248.0,
+    "Textile": 29688955302.0,
+    "Plastic & Rubber": 9799799284,
     "Stone & Glass": 3714888028.0
   },
   "vietnam": {
@@ -159,9 +159,9 @@
     "Metal": 11933681009.0,
     "Mineral": 5920844341.0,
     "Wood": 3903939693.0,
-    "Precious Metals": 2223736543.0,
-    "Textiles": 41210625413.0,
-    "Plastics & Rubbers": 9460343871,
+    "Precious Metal": 2223736543.0,
+    "Textile": 41210625413.0,
+    "Plastic & Rubber": 9460343871,
     "Stone & Glass": 2105510484.0
   },
   "indonesia": {
@@ -170,9 +170,9 @@
     "Metal": 14494113433.0,
     "Mineral": 39405723981.0,
     "Wood": 4146825740.0,
-    "Precious Metals": 7759612026.0,
-    "Textiles": 14013377720.0,
-    "Plastics & Rubbers": 9056827631.0,
+    "Precious Metal": 7759612026.0,
+    "Textile": 14013377720.0,
+    "Plastic & Rubber": 9056827631.0,
     "Stone & Glass": 818919081
   },
   "mexico": {
@@ -181,9 +181,9 @@
     "Metal": 34650284759.0,
     "Mineral": 41145162129.0,
     "Wood": 1741351546.0,
-    "Precious Metals": 1006552515.0,
-    "Textiles": 11595111503.0,
-    "Plastics & Rubbers": 28670261644,
+    "Precious Metal": 1006552515.0,
+    "Textile": 11595111503.0,
+    "Plastic & Rubber": 28670261644,
     "Stone & Glass": 3214586274.0
   },
   "philippines": {
@@ -192,9 +192,9 @@
     "Metal": 3268975389.0,
     "Mineral": 3188051184.0,
     "Wood": 1143839861.0,
-    "Precious Metals": 1726348619.0,
-    "Textiles": 1850121176.0,
-    "Plastics & Rubbers": 1574546257.0,
+    "Precious Metal": 1726348619.0,
+    "Textile": 1850121176.0,
+    "Plastic & Rubber": 1574546257.0,
     "Stone & Glass": 257789315.0
   },
   "russia": {
@@ -203,9 +203,9 @@
     "Metal": 43186416346.0,
     "Mineral": 246284322533.0,
     "Wood": 8939928014,
-    "Precious Metals": 17838023905,
-    "Textiles": 1105782790.0,
-    "Plastics & Rubbers": 6214880834.0,
+    "Precious Metal": 17838023905,
+    "Textile": 1105782790.0,
+    "Plastic & Rubber": 6214880834.0,
     "Stone & Glass": 1633789734.0
   },
   "italy": {
@@ -214,9 +214,9 @@
     "Metal": 48850962953.0,
     "Mineral": 17009788951.0,
     "Wood": 2332667178.0,
-    "Precious Metals": 15431632169.0,
-    "Textiles": 34893051099,
-    "Plastics & Rubbers": 26560811139,
+    "Precious Metal": 15431632169.0,
+    "Textile": 34893051099,
+    "Plastic & Rubber": 26560811139,
     "Stone & Glass": 10994533802
   },
   "ukraine": {
@@ -225,9 +225,9 @@
     "Metal": 10450091499.0,
     "Mineral": 5084605081.0,
     "Wood": 1451452094,
-    "Precious Metals": 51155661.0,
-    "Textiles": 996172123.0,
-    "Plastics & Rubbers": 713374001.0,
+    "Precious Metal": 51155661.0,
+    "Textile": 996172123.0,
+    "Plastic & Rubber": 713374001.0,
     "Stone & Glass": 414695080.0
   },
   "south_korea": {
@@ -236,9 +236,9 @@
     "Metal": 48383905696.0,
     "Mineral": 43550705512.0,
     "Wood": 88549781,
-    "Precious Metals": 3003972626.0,
-    "Textiles": 12509611940.0,
-    "Plastics & Rubbers": 40126560925.0,
+    "Precious Metal": 3003972626.0,
+    "Textile": 12509611940.0,
+    "Plastic & Rubber": 40126560925.0,
     "Stone & Glass": 3079560507.0
   },
   "brazil": {
@@ -247,9 +247,9 @@
     "Metal": 16012581065.0,
     "Mineral": 57114171755.0,
     "Wood": 3011978909.0,
-    "Precious Metals": 4442088713,
-    "Textiles": 3621219021.0,
-    "Plastics & Rubbers": 4853661390.0,
+    "Precious Metal": 4442088713,
+    "Textile": 3621219021.0,
+    "Plastic & Rubber": 4853661390.0,
     "Stone & Glass": 1785033644.0
   },
   "saudi_arabia": {
@@ -258,9 +258,9 @@
     "Metal": 4975339151.0,
     "Mineral": 172464001901.0,
     "Wood": 32342777.0,
-    "Precious Metals": 1226572997,
-    "Textiles": 475671371.0,
-    "Plastics & Rubbers": 21554975515,
+    "Precious Metal": 1226572997,
+    "Textile": 475671371.0,
+    "Plastic & Rubber": 21554975515,
     "Stone & Glass": 539693304.0
   },
   "pakistan": {
@@ -269,9 +269,9 @@
     "Metal": 943712800.0,
     "Mineral": 1116196222.0,
     "Wood": 40299926.0,
-    "Precious Metals": 153955692.0,
-    "Textiles": 14701014651.0,
-    "Plastics & Rubbers": 444383080.0,
+    "Precious Metal": 153955692.0,
+    "Textile": 14701014651.0,
+    "Plastic & Rubber": 444383080.0,
     "Stone & Glass": 58742423.0
   },
   "thailand": {
@@ -280,9 +280,9 @@
     "Metal": 10602863466.0,
     "Mineral": 9444476944.0,
     "Wood": 2625824030.0,
-    "Precious Metals": 14942914417.0,
-    "Textiles": 7474255500.0,
-    "Plastics & Rubbers": 29386632840,
+    "Precious Metal": 14942914417.0,
+    "Textile": 7474255500.0,
+    "Plastic & Rubber": 29386632840,
     "Stone & Glass": 2088394492.0
   },
   "germany": {
@@ -291,9 +291,9 @@
     "Metal": 105658523255,
     "Mineral": 27398927460.0,
     "Wood": 9302349854,
-    "Precious Metals": 16026393771,
-    "Textiles": 37263239243.0,
-    "Plastics & Rubbers": 82377975378,
+    "Precious Metal": 16026393771,
+    "Textile": 37263239243.0,
+    "Plastic & Rubber": 82377975378,
     "Stone & Glass": 16355716510.0
   },
   "japan": {
@@ -302,9 +302,9 @@
     "Metal": 55783835182.0,
     "Mineral": 15246763536.0,
     "Wood": 352814665,
-    "Precious Metals": 12509899460.0,
-    "Textiles": 8709309786.0,
-    "Plastics & Rubbers": 36975658852,
+    "Precious Metal": 12509899460.0,
+    "Textile": 8709309786.0,
+    "Plastic & Rubber": 36975658852,
     "Stone & Glass": 7519428645.0
   }
 }
